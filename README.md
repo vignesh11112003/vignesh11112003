@@ -47,3 +47,34 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman" />
 </p>
+
+
+<h2 align="left">🚀 Featured Projects</h2>
+
+<h3>1. Manufacturing Production Management System</h3>
+
+<p>
+  A full-stack web application designed to manage manufacturing operations,
+  product information, raw material inventory and production orders.
+</p>
+
+<p>
+  <b>Technologies:</b> React.js | Python | Django REST Framework | MySQL
+</p>
+
+
+<h3>3. SubTrack – Subscription Manager</h3>
+
+<p>
+  A subscription management application to organize and track
+  recurring subscriptions with authentication and dashboard features.
+</p>
+
+<p>
+  <b>Technologies:</b> React.js | JavaScript | LocalStorage
+</p>
+
+
+<p align="center">
+  <i>Always learning. Always building. Always improving.</i>
+</p>
