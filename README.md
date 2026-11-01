@@ -27,3 +27,23 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js" />
 </p>
+
+
+<h3>Frontend Development</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+<h3>Backend Development</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django" />
+</p>
+
+
+<h3>Database & Tools</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman" />
+</p>
